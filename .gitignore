@@ -1,3 +1,5 @@
-secapi.py
 secgroup.txt
+vm.txt
 template.json
+.gitignore
+
